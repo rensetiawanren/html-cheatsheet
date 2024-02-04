@@ -193,6 +193,5 @@
 
 ---
 
-**#HTML #Cheatsheet #Tutorial #WebDev**
 
 [🔼 Back To Top](#html---cheatsheet)
