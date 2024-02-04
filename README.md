@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/TTR_PR-001_00002-A_1-COVER.jpg"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/TTR_PR-001_00005-A_1.jpg"/>
 </kbd>
 
 <p align="right">TTR_PR-001_00002</p>
