@@ -3,123 +3,196 @@
   <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/TTR_PR-001_00005-A_1.jpg"/>
 </kbd>
 
-<p align="right">TTR_PR-001_00002</p>
+<p align="right">TTR_PR-001_00005</p>
 
-# project-name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# HTML - cheatsheet
+
+## Table of Contents
+- [Document Outline](#document-outline)
+- [Page Information](#page-information)
+- [Document Structure](#document-structure)
+- [Links](#links)
+- [Text Markup](#text-markup)
+- [List](#list)
+- [Images](#images)
+- [Comments](#comments)
+- [Form](#form)
+- [Objects](#objects)
+- [Tables](#tables)
+- [Common Character and Entities](#common-character-and-entities)
+
+## Document Outline
+`<DOCTYPE>` → Version of (X)HTML
+
+`<html>` → HTML Document
+
+`<head>` → Page Information
+
+`<body>` → Page contents
+
+## Page Information
+`<title>` → Title
+
+`<style>` → Style resources
+
+`<script>` → Script resources
+
+`<link />` → Relevant resources
+
+`<base />` → Base URL
+
+`<meta />` → Meta data
+
+## Document Structure
+`<h(1-6)>` → Heading (1–6)
+
+`<div>` → Page section
+
+`<span>` → Inline Section
+
+`<p>` → Paragraph
+
+`<br />` → Line break
+
+`<hr />` → Horizontal rule
+
+## Links
+`<a href="">` → Page link
+
+`<a href="mailto:">` → E-Mail link
+
+`<a name="name">` → Anchor
+
+`<a href="#name">` → Link to anchor
+
+## Text Markup
+`<strong>` → Strong emphasis
+
+`<em>` → Emphasis
+
+`<blockquote>` → Long quotation
+
+`<q>` → Short quotation
+
+`<abbr>` → Abbreviation
+
+`<acronym>` → Acronym
+
+`<address>` → Address
+
+`<pre>` → Pre-formated text
+
+`<dfn>` → Definition
+
+`<code>` → Code
+
+`<cite>` → Citation
+
+`<del>` → Deleted text
+
+`<ins>` → Inserted text
+
+`<sub>` → Subscript
+
+`<sup>` → Superscript
+
+`<bdo>` → Text direction
+
+## List
+`<ol>` → Ordered list
+
+`<ul>` → Unordered list
+
+`<li>` → List item
+
+`<dl>` → Definition list
+
+`<dt>` → Definition term
+
+`<dd>` → Term description
+
+## Images
+`<img />` → Image
+
+`<map>` → Image map
+
+`<area />` → Area of image map
+
+## Comments
+<!--comment text --> Comment text
+
+## Form
+`<form>` → Form
+
+`<fieldset>` → Collection of fields
+
+`<legend>` → Form legend
+
+`<label>` : → Input label
+
+`<input />` → Form input
+
+`<select>` → Drop-down box
+
+`<optgroup>` → Group of options
+
+`<option>` → Drop-down options
+
+`<textarea>` → Large text input
+
+`<button>` → Button
+
+## Objects
+`<object>` → Object
+
+`<param />` → Parameter
+
+## Tables
+`<table>` → Table
+
+`<caption>` → Caption
+
+`<thead>` → Table header
+
+`<tbody>` → Tabel body
+
+`<tfoot>` → Table footer
+
+`<colgroup>` → Column group
+
+`<col />` → Column
+
+`<tr>` → Table row
+
+`<th>` → Header cell
+
+`<td>` → Table cell
+
+## Common Character and Entities
+`&#34` → `"` Quotational mark
+
+`&#38` → `&` Ampersand
+
+`&#60` → `<` Less than
+
+`&#62` → `>` Greater than
+
+`&#64` → `@` "At" symbol
+
+`&#128` → `∙` Small bullet
+
+`&#149` → ` ` &nbsp;&nbsp;&nbsp;Non-breaking space
+
+`&#153` → `€` Euro
+
+`&#160` → `™️` Trademark
+
+`&#163` → `￡` Pound
+
+`&#169` → `©` Copyright symbol
 
 ---
 
-## Table of Content
-1. [Project Instruction](#project-instruction)
-2. [Project Goals](#project-goals)
-3. [Tech Stack](#tech-stack)
-4. [Workflow](#workflow)
-5. [Task](#task)
-6. [Documentation](#documentation)
+**#HTML #Cheatsheet #Tutorial #WebDev**
 
-## Project Instruction
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-## Project Goals
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-## Tech Stack
-##### Programming Language
-<p align="justify">
-  <!--[HTML]-->
-  <a href="">
-    <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
-  </a>
-  <!--[Markdown]-->
-  <a href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
-  </a>
-</p>    
-
-##### Versioning Control
-<p align="justify">    
-  <!--[Git]-->
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/-Git-272727?style=flat-square&logo=git&logoColor="/>
-  </a>
-  <!--[GitHub]-->
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/-GitHub-272727?style=flat-square&logo=github&logoColor="/>
-  </a>    
-</p>    
-
-##### IDE
-<p align="justify">    
-  <!--[Visual Studio Code]-->
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=blue"/>
-  </a>
-</p>
-
-##### WEB Browser
-<p align="justify">    
-  <!--[Mozilla Firefox Developer Edition]-->
-  <a href="https://www.mozilla.org/en-US/firefox/developer/">
-    <img src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-272727?style=flat-square&logo=firefox&logoColor=blue"/>
-  </a>
-</p>
-
-#### Operating System
-<p align="justify">
-  <!--[MacOS]-->
-  <a href="https://www.apple.com/id/macos">
-    <img src="https://img.shields.io/badge/-macOS-272727?style=flat-square&logo=macos&logoColor="/>
-  </a>
-</p>
-
-## Workflow
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-## Task
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-#### Case 1
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-#### Case 2
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-#### Mandatory Pages (required)
-1. 
-2. 
-3. 
-
-## Documentation
-#### To-Do
-- [ ] Complete Workflow
-- [ ] Complete Task
-- [ ] Create Documentation Report
-
-#### Report
-- [Presentation]()
-- [Documentation]()
-
----
-
-[🔼 Back To Top](#project-name)
+[🔼 Back To Top](#html---cheatsheet)
